@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java 
 - 🌱 I’m currently learning Fusion App   
 - 💞️ I’m looking to collaborate on Spring
-- 📫 How to reach me taher.mohadiya@gmail.com
+- 📫 How to reach me tahermohadiya@gmail.com
 
 <!---
 tahermahodia/tahermahodia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
